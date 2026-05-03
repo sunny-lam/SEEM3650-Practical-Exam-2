@@ -9,6 +9,9 @@ My fairest with it our mine honour.
 LEONTES:
 What shall she seem to him the feelir of your honour?
 
+LORD ROSS:
+Hark our greaterings and care the duke of thee!
+
 ## Step 3: Model Architecture
 * **Lowest Validation Loss:** 1.5273
 * **Best Settings:** 7 layers, 4 heads
